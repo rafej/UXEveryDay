@@ -1,0 +1,208 @@
+
+@import url("font-awesome.min.css");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+html,body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	color: #fff;
+}
+.card {
+	position: relative;
+	background-color: #fff;
+	border-color: 1px solid #1e9653;
+	text-align: center;
+	height: 400px;
+	width:300px;
+	top: 200px;
+	margin: 0 auto;
+	
+
+
+}
+h1 {
+	color: #000;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	position: absolute;
+	
+	left:40px;
+	margin: 0 auto;
+	text-align: center;
+}
+#name {
+	top: 50px;
+	margin: 0 auto;
+	text-align: center;
+	position: absolute;
+}
+ #profile {
+	border-radius: 50%;
+	height: 70px;
+	width: 75px;
+	top: 0px;
+	margin: 0 auto;
+	text-align: right;
+	position: relative;
+
+}
+li,ul {
+	display: inline-block;
+	color: #000;
+
+}
+.card8 {
+	background-color: #e0ffec;
+	text-align: center;
+	height: 28px;
+	width:600px;
+	top:5px;
+	margin: 0 auto;
+	position: relative;
+}
+.card7{
+	background-color: #aaffcb;
+	text-align: center;
+	height: 20px;
+	width:600px;
+	top:5px;
+	position: relative;
+}
+.card6 {
+	background-color: #44fc8d;
+	text-align: center;
+	height: 60px;
+	width:600px;
+	top:5px;
+	margin: 0 auto;
+	position: relative;
+}
+.card5 {
+	background-color: #25db6e;
+	text-align: center;
+	height: 40px;
+	width:600px;
+	top:5px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.card4 {
+	background-color: #21844a;
+	text-align: center;
+	height: 60px;
+	width:600px;
+	
+	position: relative;
+}
+.card3 {
+	background-color: #1e9658;
+	text-align: center;
+	height: 45px;
+	width:600px;
+	top:20px;
+	margin: 0 auto;
+	position: relative;
+}
+.card2 {
+	background-color: #2dc46e;
+	text-align: center;
+	height: 60px;
+	width:600px;
+	top:2px;
+	margin: 0 auto;
+	position: relative;
+
+
+}
+.cards {
+	position: relative;
+	background-color: #fff;
+	border-color: 1px solid #1e9653;
+	text-align: center;
+	height: 250px;
+	width:300px;
+	top: 150px;
+	margin: 0 auto;
+	right:200px;
+
+}
+.tree1 {
+    background-color: #fce4d6;
+	text-align: center;
+	height: 40px;
+	width:90px;
+	margin: 0 auto;
+	position: relative;
+
+}
+.tree2 {
+	 background-color: #F2CCB8;
+	text-align: center;
+	height: 40px;
+	width:100px;
+	margin: 0 auto;
+	position: relative;
+}
+.tree3{
+	 background-color: #F4BE9F;
+	text-align: center;
+	height: 40px;
+	width:110px;
+	margin: 0 auto;
+	position: relative;
+}
+.tree4 {
+	
+	 background-color: #e89658;
+	text-align: center;
+	height: 40px;
+	width:120px;
+	margin: 0 auto;
+	position: relative;
+}
+.tree5 {
+	 background-color: #d18a53;
+	text-align: center;
+	height: 40px;
+	width:130px;
+	margin: 0 auto;
+	position: relative;
+}
+.tree6 { 
+	 background-color: #ce6f27;
+	text-align: center;
+	height: 40px;
+	width:145px;
+	margin: 0 auto;
+	position: relative;
+}
+.tree7 {
+	 background-color: #C66315;
+	text-align: center;
+	height: 40px;
+	width:150px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.tree {
+	position: relative;
+	background-color: #fff;
+	border-color: 1px solid #1e9653;
+	text-align: center;
+	height: 400px;
+	width:300px;
+	border-radius: 15%;
+	margin: 0 auto;
+	right: 20px;
+}
+ul  {
+	text-align: center;
+	margin: 0 auto;
+	top: 50px;
+	position: relative;
+
+}
