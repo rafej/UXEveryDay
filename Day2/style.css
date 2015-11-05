@@ -1,0 +1,125 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300);
+@font-face {
+	font-family: geometria;
+	src:url(Geometria-Light.otf);
+}
+
+html,body {
+	padding: 0;
+	margin: 0 auto;
+	background-color:#fff;
+}
+h1,h3,h4{
+	font-family: geometria;
+	
+}
+h1 {
+	font-size: 20px;
+	font-weight: 2000;
+}
+h3 {
+	font-size: 13px;
+	font-weight: 400;
+}
+h4 {
+	font-size:12px;
+	font-weight: 600;
+}
+.card {
+	text-align: center;
+	margin: 0 auto;
+	height: 400px;
+	width: 300px;
+	background-color: #fff;
+	-webkit-box-shadow: 0px 3px 38px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 3px 38px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 3px 38px 0px rgba(0,0,0,0.75);
+    border-radius: 0.7em;
+    top:200px;
+    position: relative;
+
+}
+.title {
+	text-align: left;
+	top: 75px;
+	left:28px;
+	position: relative;
+}
+img {
+	border-radius: 50%;
+	height:75px;
+	width:70px;
+}
+
+.profile {
+	position: relative;
+	left:90px;
+	font-size: 10px;
+	right: 3px;
+
+}
+.ratings {
+	position: relative;
+	left:70px;
+	bottom: 15px;
+	top:2px;
+	right: 3px;
+}
+.icons {
+	top: 35px;
+	right: 20px;
+	position: relative;
+	letter-spacing: 10px;
+}
+.fav {
+	top:30px;
+	position: relative;
+	right: 80px;
+	font-weight: 2.0em;
+	bottom: 100px;
+}
+.stars {
+	position: relative;
+	bottom: 45px;
+	
+	right: 7px;
+}
+.hire {
+	position: relative;
+	left: 80px;
+	font-weight: 2.0em;
+	bottom: 20px;
+
+}
+.fa-star-o:hover:before {
+	content:  "\f005";
+}
+.fa-check-circle-o:hover:before {
+	content:  "\f058";
+}
+.fa-github:hover{
+	color: #66B949;
+}
+.fa-twitter:hover {
+	color: #55ACEE;
+}
+.fa-dribbble:hover{
+	color: #EA4C89;
+}
+ .fa-envelope-o:hover {
+	color: #4285F4;
+}
+.tagline {
+	position: relative;
+	bottom: 15px;
+	
+	right: 40px;
+}
+.rate {
+	position: relative;
+	bottom: 35px;
+	left:100px;
+}
+.rate:hover {
+	color: #EA4C89;
+}
